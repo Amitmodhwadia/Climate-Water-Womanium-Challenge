@@ -1,5 +1,21 @@
 # Water Potability and Quantum-AI Contributions Repository
+### Team Information:
+#### Team name : Entangled Engineers
+Team Member 1:
+ - Name: Amit Modhwadia 
+ - Womanium Program Enrollment ID: WQ24-OdfMsSyLDN6hEms
 
+Team Member 2:
+ - Name: Karan islur
+ - Womanium Program Enrollment ID: WQ24-FayGICKoq3EUQJV
+
+Team Member 3:
+ - Name: Shreya Rajpal  
+ - Womanium Program Enrollment ID:  WQ24-ZolPctO2nQuC7op
+
+Team Member 4:
+ - Name: Saiyam Sakhuja 
+ - Womanium Program Enrollment ID:  WQ24-RUSHoi3Q0FBNjRN
 ## Overview
 
 This repository contains Jupyter Notebooks and datasets related to water potability prediction and the application of AI and quantum computing in environmental data analysis. The primary focus is on using machine learning algorithms to predict water quality and exploring the potential of quantum computing combined with AI for enhancing these predictions. Additionally, it includes a comprehensive set of answers to the Womanium quantum project, provided in the accompanying PDF document.
